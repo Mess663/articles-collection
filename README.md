@@ -43,3 +43,4 @@
 21.  [当15年的老司机遇到烂项目、烂代码时，他会做这5件事！](https://mp.weixin.qq.com/s/WLWTWxSEnrS_GJI-hDoFdw)
     
 22.  [HTTP缓存和浏览器的本地存储](https://segmentfault.com/a/1190000020086923)
+22. [前端性能优化原理与实践](https://www.kancloud.cn/sllyli/performance/1242194)
