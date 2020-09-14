@@ -51,3 +51,4 @@
 28. [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/#tldr)
 29. [谈Flux与MVC](https://segmentfault.com/a/1190000012157905)
 30. [从React Hooks看React的本质](https://zhuanlan.zhihu.com/p/64800798)
+40. [写一个你自己的react(Build your own React)](https://pomb.us/build-your-own-react/)
