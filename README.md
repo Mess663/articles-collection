@@ -54,3 +54,4 @@
 40. [写一个你自己的react(Build your own React)](https://pomb.us/build-your-own-react/)
 41. [TypeScript魔法科（深入浅出，不讲api讲思想）](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MjU5NjU2NA==&action=getalbum&album_id=1415067738527301632&scene=173&from_msgid=2455504353&from_itemidx=1&count=3#wechat_redirect)
 42. [一个由正则表达式引发的血案(正则匹配的三种模式)](https://www.cnblogs.com/study-everyday/p/7426862.html)
+43. [TypeScript 的另一面：类型编程(深入讲解泛型等概念，包含很多实用场景)](https://mp.weixin.qq.com/s/LlMrYBcvs51-0CSz4pSWDw)
