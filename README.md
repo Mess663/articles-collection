@@ -58,3 +58,4 @@
 44. [函数式编程进阶：杰克船长的黑珍珠号(函数式编程，函子基础)](https://segmentfault.com/a/1190000021437883###)
 45. [函数式编程进阶：应用函子](https://segmentfault.com/a/1190000037742962)
 46. [rem 产生的小数像素问题](https://fed.taobao.org/blog/2015/11/05/mobile-rem-problem/)
+47. [JS阻塞渲染，这么多年我理解错啦？](https://mp.weixin.qq.com/s/nZd3846YTBbpj8AYgs1jqQ)
